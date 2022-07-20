@@ -3,7 +3,7 @@ template: post
 title: Create a Todo List App with React
 slug: todo-app-react-bulma
 socialImage: /media/juanjo-jaramillo-mznx9429i94-unsplash.jpg
-draft: true
+draft: false
 date: 2022-07-20T15:52:11.475Z
 description: An introduction to React by building a simple todo list app.
 category: Web Development
