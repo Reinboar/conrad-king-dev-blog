@@ -3,7 +3,7 @@ template: post
 title: Create a Todo List App with React, Pt. 1
 slug: todo-list-react-1
 socialImage: /media/juanjo-jaramillo-mznx9429i94-unsplash.jpg
-draft: true
+draft: false
 date: 2022-07-20T17:27:49.716Z
 description: Getting your feet wet with React by creating a Todo List app.
 category: Web Development
