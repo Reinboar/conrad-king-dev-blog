@@ -3,7 +3,7 @@ template: post
 title: Blogging Goals for the Last Half of 2022
 slug: blogging-goals-2022
 socialImage: /media/juanjo-jaramillo-mznx9429i94-unsplash.jpg
-draft: true
+draft: false
 date: 2022-07-21T16:21:24.924Z
 description: What I plan on doing with this blog and how I plan to go about it.
 category: Blogging
